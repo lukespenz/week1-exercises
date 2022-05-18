@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -111.8762,
+        "lat": 40.7587
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 78.4,
+        "feels_like": 77.07,
+        "temp_min": 74.52,
+        "temp_max": 81.61,
+        "pressure": 1020,
+        "humidity": 24
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 9.22,
+        "deg": 20
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1652908125,
+    "sys": {
+        "type": 2,
+        "id": 2004156,
+        "country": "US",
+        "sunrise": 1652875658,
+        "sunset": 1652928030
+    },
+    "timezone": -21600,
+    "id": 5780993,
+    "name": "Salt Lake City",
+    "cod": 200
+}
